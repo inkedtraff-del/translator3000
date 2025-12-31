@@ -10,6 +10,6 @@
     "build": "node -e \"console.log('no build');\""
   },
   "engines": {
-    "node": "18.x"
+    "node": "24.x"
   }
 }
